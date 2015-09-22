@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-Regular-webfont.eot');
+    src: url('Oswald-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oswald-Regular-webfont.woff') format('woff'),
+         url('Oswald-Regular-webfont.ttf') format('truetype'),
+         url('Oswald-Regular-webfont.svg#Oswald') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'a750-sans-cd-mediumregular';
+    src: url('ufonts.com_a750-sans-cd-medium-regular-webfont.eot');
+    src: url('ufonts.com_a750-sans-cd-medium-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ufonts.com_a750-sans-cd-medium-regular-webfont.woff') format('woff'),
+         url('ufonts.com_a750-sans-cd-medium-regular-webfont.ttf') format('truetype'),
+         url('ufonts.com_a750-sans-cd-medium-regular-webfont.svg#a750-sans-cd-mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
